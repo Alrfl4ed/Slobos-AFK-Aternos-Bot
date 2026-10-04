@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "mcshbot",
-    "password": "",
+    "password": "1.20.1",
     "type": "offline"
   },
   "server": {
