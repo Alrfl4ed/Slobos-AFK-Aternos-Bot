@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "mcshbot",
-    "password": "1.20.1",
+    "password": "chalol78",
     "type": "offline"
   },
   "server": {
     "ip": "theabyssalsmp.mcsh.io",
-    "port": 11906,
-    "version": "",
+    "port": 25565,
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
